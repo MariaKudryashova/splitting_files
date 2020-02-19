@@ -1,0 +1,1 @@
+{"working_file": "machine.jpg", "current_path": "/Users/mary/pyprojects/github/study_python/hashfiles", "N": 1024, "file_md5": "_order.md5", "file_config": "config.txt"}
